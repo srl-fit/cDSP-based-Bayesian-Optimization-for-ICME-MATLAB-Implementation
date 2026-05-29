@@ -1,5 +1,6 @@
 # cDSP-based-Bayesian-Optimization-for-ICME-MATLAB-Implementation
 cDSP-based Bayesian Optimization for ICME — MATLAB Implementation
+Author: H M Dilshad Alam Digonta, Ph.D. Candidate, Systems Realization Laboratory at Florida Institute of Technology
 
 This repository contains the MATLAB implementation of a Bayesian Optimization (BO) integrated with the compromise Decision Support Problem (cDSP) construcy for robust, uncertainty-aware design in Integrated Computational Materials Engineering (ICME).
 
