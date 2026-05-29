@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+
+message: "If you use this repository, please cite the associated paper and this software repository."
+type: software
+title: "cDSP-Based BO: MATLAB Implementation"
+authors:
+  - family-names: "Digonta"
+    given-names: "H M Dilshad Alam"
+  - family-names: "Ghasemzadeh"
+    given-names: "Maryam"
+  - family-names: "van Beek"
+    given-names: "Anton"
+  - family-names: "Nellippallil"
+    given-names: "Anand Balu"
+
+year: 2025
+
+repository-code: "https://github.com/DilshadDigonta/cDSP-Based-BO-MATLAB-ICME"
+
+abstract: "This repository contains a MATLAB implementation of a Bayesian Optimization (BO) framework integrated with the compromise Decision Support Problem (cDSP) construct for robust, uncertainty-aware design in Integrated Computational Materials Engineering (ICME) applications. The repository includes an analytical benchmark problem and an industry-inspired test problem."
+
+keywords:
+  - Bayesian Optimization
+  - Gaussian Process
+  - compromise Decision Support Problem
+  - Decision-Based Design
+  - Robust Design
+  - Uncertainty Quantification
+  - Integrated Computational Materials Engineering (ICME)
+  - MATLAB
+
+license: "MIT"
+
+preferred-citation:
+  type: article
+  title: "Design for ICME — A Data-Driven Decision Support Framework for Quantifying and Managing Uncertainty"
+  authors:
+    - family-names: "Digonta"
+      given-names: "H M Dilshad Alam"
+    - family-names: "Ghasemzadeh"
+      given-names: "Maryam"
+    - family-names: "van Beek"
+      given-names: "Anton"
+    - family-names: "Nellippallil"
+      given-names: "Anand Balu"
+  year: 2025
+  journal: "Integrating Materials and Manufacturing Innovatio"
