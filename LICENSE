@@ -12,6 +12,29 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+Third-Party Protected Files
+
+The following protected MATLAB executable files are not original source code
+developed by the copyright holder of this repository:
+
+- CorrMat.p
+- N2LogL.p
+- FitGPModel.p
+- PredictGPModel.p
+
+These files were developed by Bostanabad and co-authors for Gaussian
+Process modeling and are included only as executable protected files to enable
+reproducibility of the examples in this repository. These files remain the
+intellectual property of their original authors and are not covered by the MIT
+license granted above.
+
+Users of these protected files should cite the following work:
+
+Bostanabad, R., Kearney, T., Tao, S., Apley, D. W., and Chen, W. (2018).
+Leveraging the nugget parameter for efficient Gaussian process modeling.
+International Journal for Numerical Methods in Engineering, 114(5), 501-516.
+https://doi.org/10.1002/nme.5751
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
