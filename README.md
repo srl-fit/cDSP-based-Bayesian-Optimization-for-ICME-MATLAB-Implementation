@@ -90,7 +90,7 @@ The file `8th-order-polynomial-test-problem.md` provides the detailed problem de
 
 The industry-inspired hot rod rolling case study demonstrates the application of the proposed cDSP-based BO framework to an ICME-related engineering design problem.
 
-This example demonstrates how the framework can support robust, uncertainty-aware design exploration in a multidisciplinary setting involving process-structure-property-performance relationships.
+This example showcases how the framework can support robust, uncertainty-aware design exploration in a multidisciplinary setting involving process-structure-property-performance relationships.
 
 
 ---
@@ -275,5 +275,6 @@ Email: hdigonta2023@my.fit.edu
 
 **Maryam Ghasemzadeh**  
 University College Dublin (UCD)
+Email:------------------
 
 ---
